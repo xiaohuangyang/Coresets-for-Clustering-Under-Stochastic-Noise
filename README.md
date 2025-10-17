@@ -12,4 +12,4 @@ For the experiments under different noise model in Sec G.3, set data_name = 'adu
 
 Addtionally, run "python simulate.py" to reproduce the results in Sec E.1, which further compare the behavior of two error measure.
 
-The datasets used are listed in the 'data' folder. All experiments are conducted using Python 3.11 on an Apple M3 Pro machine with an 11-core CPU, 14-core GPU, and 36 GB of memory.
+The datasets used are listed in the 'data' folder. Since Census1990 is too large, we put Census1990 dataset on https://drive.google.com/drive/folders/1fFVzrsFYJFTJlqKBscAqQnHRVXJvOPfB?usp=drive_link. All experiments are conducted using Python 3.11 on an Apple M3 Pro machine with an 11-core CPU, 14-core GPU, and 36 GB of memory.
